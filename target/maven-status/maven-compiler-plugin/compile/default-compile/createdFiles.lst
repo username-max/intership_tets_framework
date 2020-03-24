@@ -3,9 +3,9 @@ org\example\testcalc\TestCalcTrue.class
 org\example\calc\App.class
 org\example\testcalc\TestCalcFail.class
 org\example\calc\CalculatorForIntegerNumber.class
+org\example\framework\FrameworkClass.class
 org\example\annotations\Test.class
 org\example\annotations\After.class
 org\example\framework\Assertions.class
 org\example\framework\ReflectionHelper.class
 org\example\annotations\Before.class
-org\example\framework\CustomJUnit.class
